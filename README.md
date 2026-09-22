@@ -49,4 +49,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/LS-EWANSANGEL-2005/LeetCodeSolution/tree/main/0242-valid-anagram/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/LS-EWANSANGEL-2005/LeetCodeSolution/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/LS-EWANSANGEL-2005/LeetCodeSolution/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/LS-EWANSANGEL-2005/LeetCodeSolution/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
